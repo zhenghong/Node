@@ -1,0 +1,9 @@
+{
+    "name": "AbsurdJSAndExpress",
+    "description": "AbsurdJS + Express app",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.12.3",
+        "absurd": "*"
+    }
+}
